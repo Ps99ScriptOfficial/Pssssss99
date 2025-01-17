@@ -74,7 +74,7 @@ dupeButton.Parent = mainFrame
 dupeButton.BackgroundColor3 = Color3.fromRGB(0, 255, 255)
 dupeButton.Size = UDim2.new(0, 200, 0, 25)
 dupeButton.Position = UDim2.new(0, 25, 0, 75)
-dupeButton.Text = "Change Pet"
+dupeButton.Text = "Spawn"
 dupeButton.Font = Enum.Font.GothamBold
 dupeButton.TextScaled = true
 
